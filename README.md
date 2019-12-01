@@ -1,6 +1,6 @@
 # Final Project Template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHT2016/biof509/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHT2016/final-project/master)
 
 This repository contains a template for final projects.
 
